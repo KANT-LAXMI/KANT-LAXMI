@@ -1,12 +1,13 @@
+<img src="https://indigohire.com/storage/blog/6m8g.gif" width="100%" height="350">
 <h1 align="center">Hi 👋, I'm LAXMI KANT</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif">
+<img align="right" alt="coding" width="320" src="https://blog.imarticus.org/wp-content/uploads/2019/05/careerp1.gif">
 
 - 🌱 I’m currently learning **Java,React,DS**
 
-- 👨‍💻 I love learning [New Technologies](New Technologies)
+- 👨‍💻 I love learning New Technologies.
 
-- 💬 Ask me about **mysql,java,javascript,express-js**
+- 💬 Ask me about **mySql,Java,JavaScript,Express-js**
 
 - 📫 How to reach me **kantlaxmi1357@gmail.com**
 
