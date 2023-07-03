@@ -1,4 +1,4 @@
-<img src="https://indigohire.com/storage/blog/6m8g.gif" width="100%" height="350">
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" width="100%" height="200">
 <h1 align="center">Hi 👋, I'm LAXMI KANT</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="coding" width="320" src="https://blog.imarticus.org/wp-content/uploads/2019/05/careerp1.gif">
