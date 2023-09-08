@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" width="100%" height="200">
 <h1 align="center">Hi 👋, I'm LAXMI KANT</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="320" src="https://blog.imarticus.org/wp-content/uploads/2019/05/careerp1.gif">
 
-- 🌱 I’m currently learning **Java,React,DS**
+- 🌱 I’m currently learning **Java,MySql,DS,React**
 
 - 👨‍💻 I love learning New Technologies.
 
-- 💬 Ask me about **mySql,Java,JavaScript,Express-js**
+- 💬 Ask me about **MySql,Java,JavaScript,Express-js**
 
 - 📫 How to reach me **kantlaxmi1357@gmail.com**
 
